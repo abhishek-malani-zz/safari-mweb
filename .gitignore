@@ -1,5 +1,5 @@
-.idea
-.pyc
-tags/
-.swp
+*.idea
+*.pyc
+/tags
+*.swp
 */__pycache__/
