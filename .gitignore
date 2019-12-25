@@ -1,5 +1,7 @@
 *.idea
 *.pyc
 /tags
-*.swp
 */__pycache__/
+*.swp
+*.swo
+*~
