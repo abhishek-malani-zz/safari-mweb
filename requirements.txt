@@ -1,5 +1,5 @@
 Appium-Python-Client==0.48
 selenium==3.141.0
-urllib3==1.26.5
+urllib3==1.26.18
 selenium-page-factory==1.2
 self==2019.4.13
